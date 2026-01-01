@@ -1,4 +1,4 @@
-PDF Dark Mode Converter
+PDF Dark Mode Converter by sule
 
 I made this little Python tool because I read a lot of PDFs at night, and the bright white pages were hurting my eyes.
 So this script converts any normal PDF into a dark mode version — darker background, lighter text, and much easier to read.
