@@ -10,7 +10,7 @@ Turns a regular PDF into a dark-mode styled one
 Keeps the text readable instead of fully inverting everything
 Shows progress as it converts each page
 Lets you pick your files with a normal Windows file dialog
-Works on most PDFs without any trouble
+Works on most PDFs without any trouble better
 
 Requirements
 You only need Python and PyMuPDF:
