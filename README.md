@@ -41,3 +41,4 @@ Why I made it
 Honestly, just for personal use.
 I wanted something lightweight and trustworthy, with no ads, no “Pro version,” and definitely no malware.
 If it helps someone else, even better.
+good
