@@ -16,7 +16,7 @@ Requirements
 You only need Python and PyMuPDF:
 -------------------
 pip install PyMuPDF
--------------------
+------------------
 That’s it.
 
 How to use it
