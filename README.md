@@ -14,7 +14,7 @@ Works on most PDFs without any trouble better
 
 Requirements
 You only need Python and PyMuPDF:
--------------------
+------------------
 pip install PyMuPDF
 ------------------
 That’s it.
