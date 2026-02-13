@@ -1,4 +1,4 @@
-import fitz  # PyMuPDF
+import fitz  # Make sure you install PyMuPDF
 import os
 import sys
 from tkinter import Tk
@@ -115,4 +115,5 @@ def main():
     print(f"New file size: {output_size:.2f} MB")
 
 if __name__ == "__main__":
+
     main()
