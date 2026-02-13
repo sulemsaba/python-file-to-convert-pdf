@@ -89,7 +89,7 @@ def main():
     print("The resulting PDF will have a dark background with readable content.")
     print()
     
-    # Get file paths from user
+    # Get file paths from your device
     input_path, output_path = get_file_paths()
     
     print()
@@ -106,7 +106,7 @@ def main():
     apply_dark_mode(input_path, output_path)
     
     # Show file size information
-    input_size = os.path.getsize(input_path) / (1024 * 1024)  # MB
+    input_size = os.path.getsize(input_path) / (1024 * 1024)  # MB 
     output_size = os.path.getsize(output_path) / (1024 * 1024)  # MB
     
     print()
@@ -117,3 +117,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
