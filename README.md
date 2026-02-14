@@ -42,3 +42,5 @@ Honestly, just for personal use.
 I wanted something lightweight and trustworthy, with no ads, no “Pro version,” and definitely no malware.
 If it helps someone else, even better.
 good
+
+i will enjoy if you will use it and update it.
